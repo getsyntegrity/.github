@@ -47,20 +47,6 @@ Syntegrity is designed for industries that handle sensitive or regulated data, s
 - **Government**: Managing sensitive citizen data with high standards for auditability and security.
 - **Tech Enterprises**: Providing a secure and compliant environment for multi-tenant SaaS applications.
 
-## Getting Started
-
-1. **Installation**: Follow the installation guide in [INSTALL.md](./INSTALL.md) to set up Syntegrity.
-2. **Configuration**: See [CONFIGURATION.md](./CONFIGURATION.md) for details on configuring Syntegrity for your organization’s specific needs.
-3. **Documentation**: For a full overview of the API and system architecture, refer to the [Documentation](./docs).
-
-## Contributing
-
-We welcome contributions from the community! Please refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for details on how to get involved.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
 ---
 
 Syntegrity - Protecting and empowering your organization’s data.
