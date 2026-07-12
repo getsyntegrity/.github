@@ -1,92 +1,90 @@
 # Syntegrity
 
-**Syntegrity** is an open, extensible platform focused on **governance, integrity, and traceability of automated decisions and data flows** in modern distributed systems.
+> **We don't build intelligence. We build trust.**
 
-It provides a **multi-tenant, policy-driven foundation** for controlling *who can do what, when, and under which conditions* — with full auditability and evidence built in by design.
+Syntegrity develops infrastructure that enables organizations to use Artificial Intelligence in real-world processes safely, transparently, and with governance.
 
-Syntegrity is built for organizations running **AI agents, automated workflows, and distributed services** where trust, approval, and traceability are first-class concerns.
+We believe the next generation of AI will not be defined by larger models alone, but by the infrastructure that makes those models trustworthy, explainable, and usable in critical business processes.
+
+Our mission is to help organizations move from **AI experimentation** to **AI they can trust**.
+
+---
+
+## Our Vision
+
+Artificial Intelligence is becoming a fundamental layer of modern software.
+
+Just as every organization relies on databases, identity platforms, messaging systems, and observability, we believe every organization will soon require a trusted infrastructure layer for AI.
+
+Syntegrity is building that layer.
 
 ---
 
 ## Core Capabilities
 
-### 🔐 Governance & Integrity by Design
-- Immutable, append-only audit trails for decisions and actions  
-- Cryptographic guarantees for integrity and non-repudiation  
-- Clear separation between **policy, execution, and evidence**
+Our platform is built around three permanent capabilities.
 
-### 🧩 Multi-Tenant Architecture
-- Strong tenant isolation at identity, policy, and data levels  
-- Designed for SaaS platforms operating at scale  
-- Explicit ownership boundaries between tenants
+### Evidence Platform
 
-### 🧑‍⚖️ Policy & Approval Workflows
-- Human-in-the-loop and automated approval flows  
-- Explicit approval evidence tied to each action  
-- Deterministic, traceable state transitions
+Transform information from any source into structured, verifiable evidence.
 
-### 🪪 Identity, Roles & Access Control
-- Role-based and policy-based access control (RBAC / PBAC)  
-- OAuth2 / JWT based identity propagation  
-- Tenant-safe authorization enforced at boundaries
+### Decision Platform
 
-### 📜 Audit Logs & Observability
-- Every action is observable, traceable, and attributable  
-- Correlation IDs across services and workflows  
-- Designed for compliance and post-incident analysis
+Coordinate intelligent workflows using evidence, context, governance, and human oversight.
 
-### 🤖 AI-Ready by Default
-- Designed to govern **AI agents and autonomous systems**  
-- External agents can be controlled without being owned  
-- Policies act as enforcement points, not suggestions
+### Domain Platform
+
+Enable organizations and partners to build domain-specific intelligence without reinventing the core platform.
 
 ---
 
-## Project Activity & Health
+## Principles
 
-Syntegrity is actively developed in the open.  
-All engineering activity is transparent and observable via GitHub.
-
-### 📊 Live Metrics
-- 🔄 [Development Pulse (last 30 days)](../../pulse)
-- 🧑‍💻 [Contributors](../../graphs/contributors)
-- 🧩 [Community Health](../../community)
-- 🧪 [CI & Workflows](../../actions)
-
-### 📦 Repository Stats
-![Stars](https://img.shields.io/github/stars/getsyntegrity/syntegrity-platform?style=flat)
-![Issues](https://img.shields.io/github/issues/getsyntegrity/syntegrity-platform?style=flat)
-![Pull Requests](https://img.shields.io/github/issues-pr/getsyntegrity/syntegrity-platform?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/getsyntegrity/syntegrity-platform?style=flat)
+- Human in the Loop
+- Evidence First
+- Deterministic by Design
+- Explainability
+- Auditability
+- Model Agnostic
+- Data Ownership
+- Security by Design
 
 ---
 
-## Use Cases
+## What We Don't Build
 
-Syntegrity is designed for teams that need **control without coupling**:
+- Large Language Models
+- AI model providers
+- Prompt libraries
+- Generic chatbots
+- Closed AI ecosystems
 
-- AI platforms governing autonomous agents  
-- SaaS products requiring tenant-safe approvals  
-- Regulated environments demanding traceability and evidence  
-- Enterprise platforms enforcing policies across services
-
----
-
-## Philosophy
-
-Syntegrity does **not**:
-- Embed business logic into gateways  
-- Take ownership of your internal systems  
-- Act as an opaque decision engine  
-
-Instead, it provides **governance primitives** that integrate cleanly into your architecture.
-
-> Governance should be explicit, observable, and enforceable — not hidden in code.
+Instead, we build the infrastructure that allows any AI model to operate reliably inside real-world business processes.
 
 ---
 
-## Status
+## Our Projects
 
-🚧 Actively evolving  
-💡 Architecture-first  
-🔍 Transparency by default  
+Our ecosystem includes multiple open-source and commercial initiatives focused on building trusted AI infrastructure.
+
+The first flagship platform is **Atlas**, our decision infrastructure for intelligent systems.
+
+More projects will be announced as the ecosystem evolves.
+
+---
+
+## Get Involved
+
+We're building in the open and welcome contributions, discussions, and collaboration.
+
+Whether you're interested in distributed systems, AI infrastructure, governance, developer tooling, or domain-specific intelligence, we'd love to hear from you.
+
+---
+
+## Learn More
+
+Our long-term vision and architectural principles are described in the **Foundation** document.
+
+> **Syntegrity doesn't build artificial intelligence.**
+>
+> **Syntegrity builds the infrastructure that makes artificial intelligence trustworthy.**
